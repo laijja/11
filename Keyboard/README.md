@@ -1,0 +1,23 @@
+## Keyboard Function:
+ - Ctrl Kiri + Pause Break: keluarkan drive Optik
+ - Ctrl Kanan + Pause Break: Membuka Menu Sleep, Restart, Shutdown
+ - Fn + F1: Sleep
+ - Fn + F2: Mematikan Wifi Hanya Bekerja di Bigsur Setelah Menginstall AsusSmc Daemon dan AsusSMC.kext
+ - Fn + F3: Tidak Bekerja
+ - Fn + F4: Tidak Bekerja
+ - Fn + F5: Mengurangi Kecerahan
+ - Fn + F6: Menambahkan Kecerahan
+ - Fn + F7: Mematikan Layar
+ - Fn + F8: Jangan Disentuh !! karena Hanya Menghasilkan Reboot (Bug)
+ - Fn + F9: Mematikan Touchpad (hanya Bekerja Memakai AsusNBFnKeys.kext)
+ - Fn + F10: Mute
+ - Fn + F11: Volume Turun
+ - Fn + F12: Volume Naik
+ - Fn + Panah Atas: Mengaktifkan kontrol yang lebih baik untuk tingkat kecerahan/volume yang lebih kecil dalam mode tombol Fn
+ - Fn + arrow Bawah: Putar/Jeda
+ - Fn + arrow kiri: Media Sebelumnya
+ - Fn + arrow right: Media Selanjutnya
+ - konteks Kanan: Membuka Menu Kontekstual
+ - Print Screen: Pintasan tangkapan layar 
+ - Delete scr lk : Pintasan Tombol Hapus
+ 
